@@ -1,0 +1,22 @@
+{
+  "Websites": {
+    "Home": {
+      "Type": 1,
+      "Bindings": [
+        "*"
+      ]
+    },
+    "Default": {
+      "Type": 3,
+      "Bindings": [
+        "*/Default"
+      ]
+    },
+    "Eerste": {
+      "Type": 1,
+      "Bindings": [
+        "*/Eerste"
+      ]
+    }
+  }
+}
